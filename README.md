@@ -1,17 +1,10 @@
-GLosario de la materia de PP1.
+                                            GLOSARIO DE INTRODUCCION A LAS REDES 
 
-GIT: una consola la cual sirve para el trabajo en grupo.
-
-GITHUB: lugar donde se almacena los datos que trabajaste.
-
-COMMIT: agregar un mensaje al archivo que subiste a github.
-
-en este repositorio voy a cancarme de hacer cosas la concha de la gorra.
-
-lenguaje de codigo: es un tipo de escritura la cual te permite crear cosas qsy.
-
-push: permite "empujar" el archivo modificado al repositorio en el cual fue clonado.
-
-nashex.
-
-prueba.
+Comunicacion: Capacidad de un ser entendido.
+Red de comunicacion: Una especie de entramado de cables los cuales permiten la interconeccion de apartos.
+Terminal Pasivo: computadora la cual no es el principal en la red.
+Servidor: medio al que acuden los terminales pasivos para comunicarse con los demas.
+Bits: unidad minima en la ciencia de la computacion
+Byte: conjutno de 8 bits
+Mega Byte: 1024 Byte
+Giga byte: 1024 Mega Byte
