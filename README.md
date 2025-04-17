@@ -15,3 +15,7 @@ Byte: conjutno de 8 bits.
 Mega Byte: 1024 Byte.
 
 Giga byte: 1024 Mega Byte.
+
+LAN: "LOCAL AREA NETWORK" Significa que es una red la cual esta conectada en un mismo a servidor o conectados entre si.
+
+WAN: "WIRLESS AREA NETWORK" es una LAN pero sin el uso de cables para conectar los dispositivos al servidor principal 
