@@ -18,4 +18,8 @@ Giga byte: 1024 Mega Byte.
 
 LAN: "LOCAL AREA NETWORK" Significa que es una red la cual esta conectada en un mismo a servidor o conectados entre si.
 
-WAN: "WIRLESS AREA NETWORK" es una LAN pero sin el uso de cables para conectar los dispositivos al servidor principal 
+WAN: "WIRLESS AREA NETWORK" es una LAN pero sin el uso de cables para conectar los dispositivos al servidor principal.
+
+agrege una linea en la rama de developer.
+
+tung tung tung tung sahur es mejor.
